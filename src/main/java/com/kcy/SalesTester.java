@@ -9,5 +9,7 @@ public class SalesTester {
         c2.print();
         c3.print();
         //0001 1200  1100
+        //0002 800   800
+        //0003 2000 1800(200)
     }
 }
