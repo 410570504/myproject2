@@ -1,4 +1,4 @@
-package com.kcy;
+package com.kcy.score;
 
 public class ScoringNG {
     public static void main(String[] args) {

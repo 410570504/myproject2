@@ -1,4 +1,4 @@
-package com.kcy;
+package com.kcy.score;
 
 public class Student {
     String name;

@@ -1,4 +1,4 @@
-package com.kcy;
+package com.kcy.sales;
 
 public class Customer {
     String id;

@@ -1,4 +1,6 @@
-package com.kcy;
+package com.kcy.sales;
+
+import com.kcy.sales.Customer;
 
 public class SilverCustomer extends Customer {
 

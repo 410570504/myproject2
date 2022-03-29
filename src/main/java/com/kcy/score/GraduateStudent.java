@@ -1,5 +1,6 @@
-package com.kcy;
-    public class GraduateStudent extends Student {
+package com.kcy.score;
+
+public class GraduateStudent extends Student {
         int thesis;
 
         public GraduateStudent(String name,
