@@ -6,8 +6,6 @@ public class Tester {
     public static void main(String[] args) {
         //Constructor, constant value
         Ticket ticket = new Ticket(
-                Ticket.TAIPEI_STATION,
-                Ticket.KAOHSIUNG_STATION);
                 Station.TAIPEI_STATION,
                 Station.KAOHSIUNG_STATION);
         Scanner scanner = new Scanner(System.in);
