@@ -1,6 +1,6 @@
 package com.kcy.ticket;
 
-public class Station {
+public class  Station {
     public static final Station TAIPEI_STATION =
             new Station(100, "Taipei");
     public static final Station TAICHUNG_STATION =
